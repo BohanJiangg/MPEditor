@@ -38,19 +38,19 @@
     height:48px;
 }
 .icon_home{
-    background:transparent url(../images/home.png) no-repeat top left;
+    background:transparent url(../images/Logo.png) no-repeat top left;
 }
 .icon_mail{
-    background:transparent url(../images/mail.png) no-repeat top left;
+    background:transparent url(../images/Template_Import.png) no-repeat top left;
 }
 .icon_help{
-    background:transparent url(../images/help.png) no-repeat top left;
+    background:transparent url(../images/Text_Import.png) no-repeat top left;
 }
 .icon_find{
-    background:transparent url(../images/find.png) no-repeat top left;
+    background:transparent url(../images/Search.png) no-repeat top left;
 }
 .icon_photos{
-    background:transparent url(../images/photos.png) no-repeat top left;
+    background:transparent url(../images/Image_Import.png) no-repeat top left;
 }
 .item_content{
     position:absolute;
